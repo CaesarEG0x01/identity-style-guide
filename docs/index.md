@@ -13,7 +13,7 @@ lead: >
         <div class="usa-display">
           The key to a strong brand <br>is <span class="text-accent-cool">consistency</span>.
         </div>
-        <p class="usa-intro">{{ page.lead }}</p>
+        <p class="usa-intro">{{ page.lead }}</p><h1>maxking</h1>
         <a href="https://github.com/18F/identity-style-guide#configuring-for-development" class="usa-button usa-button--big">See installation instructions on GitHub</a>
       </div>
     </div>
